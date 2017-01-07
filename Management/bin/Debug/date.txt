@@ -1,0 +1,7 @@
+1 Popa Andrei 1 str.Speranta Ema Mihai
+1 Costin Codrin 2 str.Eminescu,nr.2 Magda Viorel
+2 Vasiliev Vlad 3 str.Mitropoliei Marinela Cristian
+3 Andrei Dan 3 str.Castanilor Andra Traian
+1 Barbu Andrei 5 Str.Bucuriei Maria George
+2 Clara Mihai 5 str.Vasluiului Sandra Cristi
+3 Vlad Costel 1 str.Copou Anca Ion

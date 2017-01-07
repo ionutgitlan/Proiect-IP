@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1452790454 source:d:\informatica\ip\management\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+
